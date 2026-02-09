@@ -9,7 +9,7 @@
       "name": "repo-insight",
       "description": "Generate or update AI-consumable project documentation (docs/ai/*). Automatically detects Generate mode or Cognize mode.",
       "version": "1.0.0",
-      "source": "plugins/repo-insight",
+      "source": "./",
       "author": {
         "name": "Darkeril"
       }
