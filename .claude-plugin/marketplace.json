@@ -1,23 +1,18 @@
 {
-  "marketplace": {
-    "name": "Darkeril-plugins",
-    "author": "fanziqi",
-    "description": "A collection of Claude Code plugins by fanziqi",
-    "version": "1.0.0"
+  "name": "Darkeril-plugins",
+  "description": "A collection of Claude Code plugins by Darkeril",
+  "owner": {
+    "name": "Darkeril"
   },
   "plugins": [
     {
       "name": "repo-insight",
       "description": "Generate or update AI-consumable project documentation (docs/ai/*). Automatically detects Generate mode or Cognize mode.",
       "version": "1.0.0",
-      "author": "fanziqi",
-      "source": {
-        "type": "git",
-        "path": "plugins/repo-insight",
-        "ref": "main"
-      },
-      "tags": ["documentation", "codebase-analysis", "ai"],
-      "license": "MIT"
+      "source": "plugins/repo-insight",
+      "author": {
+        "name": "Darkeril"
+      }
     }
   ]
 }
