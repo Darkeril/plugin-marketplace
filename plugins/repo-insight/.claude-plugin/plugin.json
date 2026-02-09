@@ -1,0 +1,10 @@
+{
+  "name": "repo-insight",
+  "version": "1.0.0",
+  "description": "Generate or update AI-consumable project documentation (docs/ai/*). Automatically detects whether to run in Generate mode (new project) or Cognize mode (existing docs). Uses token-budget tiers and smart extraction to efficiently analyze codebases of any size.",
+  "author": {
+    "name": "fanziqi"
+  },
+  "keywords": ["documentation", "codebase", "ai", "analysis"],
+  "license": "MIT"
+}
