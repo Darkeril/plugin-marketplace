@@ -1,4 +1,4 @@
-# fanziqi-plugins
+# Darkeril-plugins
 
 A collection of Claude Code plugins.
 
@@ -19,7 +19,7 @@ A collection of Claude Code plugins.
 ### 2. Install a plugin
 
 ```
-/plugin install repo-insight@fanziqi-plugins
+/plugin install repo-insight@Darkeril-plugins
 ```
 
 ## Plugin Details
